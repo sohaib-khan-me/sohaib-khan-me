@@ -1,4 +1,4 @@
-# Hi, I'm Sohaib Khan 👋
+# Hi, I'm Sohaib Khan
 
 **AI/ML Engineer | Generative AI | LLMs | Agentic AI**
 
