@@ -4,8 +4,6 @@
 
 I'm an AI/ML Engineer and Computer Science graduate from FAST-NUCES Peshawar, passionate about building Generative AI and Agentic AI applications that solve real-world problems.
 
-My focus is on developing intelligent applications powered by Large Language Models (LLMs), AI agents, Retrieval-Augmented Generation (RAG), and modern AI frameworks. I enjoy transforming ideas into practical, scalable, and reliable AI systems that go beyond experimentation and deliver real-world value.
-
 ### Areas of Focus
 
 - **Generative AI:** LLM Applications, Prompt Engineering, RAG
